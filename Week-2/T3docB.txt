@@ -1,0 +1,3 @@
+Sorting algorithms arrange data in ascending or descending order. 
+QuickSort uses partitioning and recursion. 
+Heaps are used for priority queues.
