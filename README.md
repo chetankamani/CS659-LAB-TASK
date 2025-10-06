@@ -15,7 +15,7 @@ This repository contains weekly laboratory assignments completed for the **CS659
 ## Tools Used
 - Python, NumPy, Matplotlib  
 - MATLAB / Octave  
-- LaTeX for reports
+- LaTeX for reports (Overleaf online LaTeX editor)
 
 ## Author
 **Chetankumar Kamani**  
